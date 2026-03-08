@@ -1,0 +1,21 @@
+# --- Visual Studio ---
+.vs/
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# --- VS Code ---
+.vscode/
+.history/
+
+# --- Temporary files ---
+*.tmp
+*.log
+*.cache
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
